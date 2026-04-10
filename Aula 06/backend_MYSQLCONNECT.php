@@ -1,6 +1,6 @@
 <?php
 header("Access-Control-Allow-Origin: *"); // Permite acesso de qualquer origem
-header("Access-Control-Allow-Methods: POST"); // Permite apenas o método POST
+header("Access-Control-Allow-Methods: POST, GET, OPTIONS"); // Permite os métodos POST, GET e OPTIONS para requisições CORS
 header("Set-Cookie: flavor=choco; SameSite=None; Secure"); // Configura o cookie com SameSite=None e Secure
 header("Content-Type: application/json"); // Define o tipo de conteúdo como JSON
 

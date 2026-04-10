@@ -1,0 +1,26 @@
+input{
+    border: 1px solid #ccc;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 0 10px 0 10px;
+    height: 20px;
+}
+#cep{
+    max-width: 90px;
+}
+
+#button{
+    border: none;
+    height: 35px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+#formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}

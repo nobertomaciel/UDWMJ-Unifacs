@@ -37,8 +37,11 @@
         <mxCell id="G-CGkctN5lxB2BYdDVkB-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Rendering Process" vertex="1">
           <mxGeometry height="60" width="210" x="390" y="250" as="geometry" />
         </mxCell>
+        <mxCell id="G-CGkctN5lxB2BYdDVkB-13" edge="1" parent="1" source="G-CGkctN5lxB2BYdDVkB-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="G-CGkctN5lxB2BYdDVkB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G-CGkctN5lxB2BYdDVkB-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Rendering Process" vertex="1">
-          <mxGeometry height="60" width="210" x="560" y="160" as="geometry" />
+          <mxGeometry height="60" width="210" x="550" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

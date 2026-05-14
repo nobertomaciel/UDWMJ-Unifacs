@@ -37,17 +37,22 @@
         <mxCell id="G-CGkctN5lxB2BYdDVkB-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Rendering Process" vertex="1">
           <mxGeometry height="60" width="210" x="370" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="G-CGkctN5lxB2BYdDVkB-13" edge="1" parent="1" source="G-CGkctN5lxB2BYdDVkB-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;startArrow=classic;startFill=1;fontSize=18;" target="G-CGkctN5lxB2BYdDVkB-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="G-CGkctN5lxB2BYdDVkB-13" edge="1" parent="1" source="G-CGkctN5lxB2BYdDVkB-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;startArrow=classic;startFill=1;fontSize=18;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661.5" y="334" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="G-CGkctN5lxB2BYdDVkB-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Rendering Process" vertex="1">
-          <mxGeometry height="60" width="210" x="530" y="130" as="geometry" />
+          <mxGeometry height="60" width="210" x="554" y="130" as="geometry" />
         </mxCell>
         <mxCell id="qtB3RasTjT92FbWY6trZ-1" edge="1" parent="1" source="G-CGkctN5lxB2BYdDVkB-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.324;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;startArrow=classic;startFill=1;fontSize=18;" target="G-CGkctN5lxB2BYdDVkB-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qtB3RasTjT92FbWY6trZ-2" edge="1" parent="1" source="G-CGkctN5lxB2BYdDVkB-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.913;exitY=1.03;exitDx=0;exitDy=0;entryX=0.031;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;strokeWidth=2;exitPerimeter=0;fontSize=18;" target="G-CGkctN5lxB2BYdDVkB-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qtB3RasTjT92FbWY6trZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Arquitetura básica de um s" vertex="1">
+          <mxGeometry height="30" width="650" x="90" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
